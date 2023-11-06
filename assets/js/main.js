@@ -246,10 +246,3 @@
 
 })()
 
-/*/ Javascript /*/
-
-function validarForm() {
-  var nom=document.getElementById("nom").value;
-  alert("Començem a validar " + nom);
-      alert("El teu missatge ha sigut enviar amb éxit! Moltes Gràcies " + nom);
-}
